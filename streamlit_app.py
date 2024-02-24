@@ -42,7 +42,7 @@ import snowflake.connector
 snowflake_config = {
   "user" : "pramparia",
   "password" : "Pooj@17993",
-  "account" : "GNJFHOP-EL25886",
+  "account" : "GNJFHOP.EL25886",
   "warehouse" : "pc_rivery_wh", 
   "database" : "pc_rivery_db", 
   "schema" : "public",
